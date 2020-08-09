@@ -13,3 +13,4 @@ The device uses Wi-Fi because the communication protocol and Raspberry Pi acts a
 We tend to supply a simple interface for the device that allows the user to interact with the Raspberry Pi server. 
 The servers are interfered with a relay board that controls the devices running within the house. The server communicates with the individual relay. 
 By this we provide a reliable and price effective home automation system.
+ 
