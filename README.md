@@ -1,0 +1,5 @@
+# RESEARCH-PAPERS
+PUBLISHED RESEARCH PAPERS
+
+Abstract:
+This technology provides new and exciting opportunities to increase the property of devices at intervals the house for the aim of home automation. Mobile devices are ideal for providing a program to a home automation system due to its wide array of movability and capabilities. They'll communicate with a home automation network through an internet entree, however cannot communicate directly with devices within the network, as these devices usually implement low power communication protocols, like Zig-Bee, WiFi, etc. During this project we are geared towards dominant home appliances. The device uses Wi-Fi because the communication protocol and Raspberry Pi acts as a server system. We tend to supply a simple interface for the device that allows the user to interact with the Raspberry Pi server. The servers are interfered with a relay board that controls the devices running within the house. The server communicates with the individual relay. By this we provide a reliable and price effective home automation system.
